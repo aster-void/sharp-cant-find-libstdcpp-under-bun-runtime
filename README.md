@@ -1,5 +1,3 @@
-# Bun bug?
-
 repro:
 
 1. run `node main.mjs`
