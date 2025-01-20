@@ -177,3 +177,4 @@ dist
 sammy-resized.png
 bun.lockb
 package-lock.json
+.direnv
